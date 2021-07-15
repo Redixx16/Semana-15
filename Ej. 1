@@ -1,6 +1,6 @@
 //Diseñar un algoritmo para indicarle a la tortuga como salir del laberinto
-Ejercicio_1
-PROCESO
+Algoritmo Ejercicio_1
+INICIO
 Avanzar de frente hasta llegar a la pared
 Girar a la derecha
 Avanzar hasta llegar a la pared
@@ -24,4 +24,4 @@ Girar hacia la derecha
 Avanzar hasta llegar a la pared
 Girar a la derecha
 Salir del Laberinto Satisfactorio
-FIN DEL PROCESO
+FinAlgoritmo
